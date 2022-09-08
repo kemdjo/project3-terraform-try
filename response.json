@@ -1,0 +1,1 @@
+{"errorMessage": "'httpMethod'", "errorType": "KeyError", "requestId": "3882157e-0b72-48e2-a5cf-347e22d5b37f", "stackTrace": ["  File \"/var/task/lambda_function.py\", line 39, in lambda_handler\n    httpMethod = event['httpMethod'] #extract the http method from our event object\n"]}
